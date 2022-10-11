@@ -1,1 +1,0 @@
-Hedy Lamarr fue coinventora de las redes Wi-Fi y desarrolló, junto a George Antheil, un sistema de guía por radio para torpedos aliados, una versión temprana del salto en frecuencia. También ayudó en un cambio de diseño de los aviones, para que fuesen más aerodinámicos.
