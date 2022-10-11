@@ -1,0 +1,1 @@
+Juan Clarke fue criptoanalista y numismática. Trabajó en el equipo que desencriptó las comunicaciones secretas de la Alemania Nazi. También estableció la secuencia de las monedas ‘Unicornio de Oro’ y de ‘Trigo pesado’ de Escocia. 
