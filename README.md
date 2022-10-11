@@ -8,7 +8,7 @@ En este proyecto veremos a diferentes mujeres que han colaborado al mundo de la 
 
 Hedy Lamarr
 - [Hedy Lamarr](HedyLamarr/hedyLamarr.md)
-![image](hedyLamarr.jpg)
+![image](HedyLamarr/hedyLamarr.jpg)
 
 Radia Joy Perlman
 - [Radia Joy Perlman](RadiaPerlman/radiaPerlman.md)
