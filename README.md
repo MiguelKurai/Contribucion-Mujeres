@@ -29,3 +29,4 @@ Grace Murray
 - [Grace Murray](https://es.wikipedia.org/wiki/Grace_Murray_Hopper)
 
 ## Licencia
+![image](licencia.png)
