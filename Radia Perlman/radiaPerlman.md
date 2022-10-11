@@ -1,1 +1,0 @@
-Radia Joy Perlman es una creadora de software e ingeniera de redes. Ha trabajado para Intel y actualmente trabaja para Dell EMC. Fue la creadora del Protocol Spanning Tree, ha impartido cursos en diferentes universidades y tiene más de 100 patentes emitidas, siendo 47 de ellas para Intel.
