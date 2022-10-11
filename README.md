@@ -12,15 +12,15 @@ Hedy Lamarr
 
 Radia Joy Perlman
 - [Radia Joy Perlman](RadiaPerlman/radiaPerlman.md)
-
+![image](RadiaPerlman/radiaPerlman.jpg)
 
 Joan Clarke
 - [Joan Clarke](JoanClarke/joanClarke.md)
-
+![image](JoanClarke/joanClarke.jpg)
 
 Grace Murray
 - [Grace Murray](GraceMurray/graceMurray.md)
-
+![image](GraceMurray/graceMurray.jpg)
 
 ## Referencias
 - [Hedy Lamarr](https://es.wikipedia.org/wiki/Hedy_Lamarr)
