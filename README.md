@@ -10,7 +10,7 @@ Hedy Lamarr
 - Hedy Lamarr
 
 Radia Joy Perlman
-- Radia Joy Perlman
+- [Radia Joy Perlman](radiaPerlman.md)
 
 Joan Clarke
 - Joan Clarke
