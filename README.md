@@ -33,7 +33,7 @@ Grace Murray
 Ana María Prieto
 - [Ana María Prieto](AnaPrieto/anaPrieto.md)
 
-![image](anaPrieto.jpg)
+![image](AnaPrieto/anaPrieto.jpg)
 
 
 ## Referencias
