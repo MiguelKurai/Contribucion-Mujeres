@@ -8,15 +8,19 @@ En este proyecto veremos a diferentes mujeres que han colaborado al mundo de la 
 
 Hedy Lamarr
 - [Hedy Lamarr](HedyLamarr/hedyLamarr.md)
+![image](hedyLamarr.jpg)
 
 Radia Joy Perlman
 - [Radia Joy Perlman](RadiaPerlman/radiaPerlman.md)
 
+
 Joan Clarke
 - [Joan Clarke](JoanClarke/joanClarke.md)
 
+
 Grace Murray
 - [Grace Murray](GraceMurray/graceMurray.md)
+
 
 ## Referencias
 - [Hedy Lamarr](https://es.wikipedia.org/wiki/Hedy_Lamarr)
