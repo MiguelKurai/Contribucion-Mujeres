@@ -1,1 +1,0 @@
-Grace Murray fue la primera programadora que usó el Mark I, desarrolló el primer compilador para un lenguaje de programación. También fue desarrolladora del COBOL y defendía que el lenguaje de programación debía ser en inglés, y que las máquinas debían ser capaces de traducirlo a su propio lenguaje.
